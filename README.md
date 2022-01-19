@@ -12,3 +12,7 @@ In Code in Place 2021, I completed three small Python programs that processed an
 SimpleImage is a library, using Pillow library that extends Python’s functionality in terms of digital image processing. It was written by Nicholas Bowman, Sonja Johnson-Yu, Kylie Jue for CS106AP 2019 in Stanford University.
 
 I would like to send the greatest acknowledgement to the course instructors of Code in Place 2021 who provided us with SimpleImage library, this cool assignment on Image Processing, and all the nice images as included in this repository.
+
+## Tutorial for SimpleImage use
+For those who would like to use SimpleImage, please check out:
+- Image Reference Guide by the creators of SimpleImage library on how to install and use it: https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1198/handouts/h10_Image_Reference_Guide.pdf
